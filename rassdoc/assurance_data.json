@@ -4,7 +4,21 @@
         "name": "MCI",
         "image": "@/assets/images/icons/images.png",
         "createAt": "02 janvier, 2024",
-        "lastTransaction": -10500
+        "lastTransaction": -10500,
+        "details": [
+            {
+                "date": "10 Septembre 2023",
+                "cost": 750000,
+                "coverage": 400000,
+                "reason": "Description du motif"
+            },
+            {
+                "date": "10 Septembre 2023",
+                "cost": 750000,
+                "coverage": 400000,
+                "reason": "Description du motif"
+            }
+        ]
     },
     {
         "id": 2,
@@ -18,7 +32,21 @@
         "name": "Unies pour tous",
         "image": "@/assets/images/icons/images.png",
         "createAt": "27 Septembre, 2013",
-        "lastTransaction": -7500
+        "lastTransaction": -7500,
+        "details": [
+            {
+                "date": "10 Septembre 2023",
+                "cost": 750000,
+                "coverage": 400000,
+                "reason": "Description du motif"
+            },
+            {
+                "date": "10 Septembre 2023",
+                "cost": 750000,
+                "coverage": 400000,
+                "reason": "Description du motif"
+            }
+        ]
     },
     {
         "id": 4,
